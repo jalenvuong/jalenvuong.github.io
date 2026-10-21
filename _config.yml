@@ -1,0 +1,19 @@
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+title: "Jalen Vuong"
+description: "Mechanical Engineering student at Rice University"
+minimal_mistakes_skin: "default"
+
+author:
+  name: "Your Name"
+  bio: "Short bio"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yourusername"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yourprofile"
