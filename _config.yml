@@ -4,16 +4,16 @@ plugins:
   - jekyll-include-cache
 
 title: "Jalen Vuong"
-description: "Mechanical Engineering student at Rice University"
+description: "Junior at Rice University studying Mechanical Engineering and Classics"
 minimal_mistakes_skin: "default"
 
 author:
-  name: "Your Name"
-  bio: "Short bio"
+  name: "Jalen Vuong"
+  bio: "Hi, I'm Jalen, a junior at Rice University studying Mechanical Engineering and Classics. I'm interested in controls and how these systems can be integrated into automotive engineering to improve performance and safety."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/steinnbjorn"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/yourprofile"
+      url: "https://www.linkedin.com/in/jalen-vuong"
