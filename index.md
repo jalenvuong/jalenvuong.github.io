@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Your Name"
+title: "Jalen Vuong's Portfolio"
 author_profile: true
 ---
 
