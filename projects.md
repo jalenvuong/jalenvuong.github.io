@@ -44,3 +44,11 @@ Tools: Python
 
 Tools: Onshape, FEA, 3D Printing
 
+---
+
+**Machinist Hammer:**
+
+- Created machinist hammer using a lathe and various attachments
+- Read engineering drawings and learned how to apply tolerances
+
+Tools: Lathe, Engineering Drawings
