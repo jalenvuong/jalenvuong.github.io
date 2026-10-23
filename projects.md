@@ -5,7 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Projects:
 
 Simple PID Control for RC Car
 
