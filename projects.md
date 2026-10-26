@@ -4,29 +4,29 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 changing_table:
-  - url: /assets/photos/table_cad
-    image_path: /assets/photos/table_cad
+  - url: /assets/photos/table_cad.png
+    image_path: /assets/photos/table_cad.png
     alt: "CAD mockup of prototype"
     title: "CAD of portable foldable changing table"
-  - url: /assets/photos/table_prototype
-    image_path: /assets/photos/table_prototype
+  - url: /assets/photos/table_prototype.png
+    image_path: /assets/photos/table_prototype.png
     alt: "Final prototype of changing table"
     title: "Final prototype presented to panel"
 bridge:
-  - url: /assets/photos/bridge_CAD
-    image_path: /assets/photos/bridge_CAD
+  - url: /assets/photos/bridge_CAD.png
+    image_path: /assets/photos/bridge_CAD.png
     alt: "CAD model of bridge"
     title: "CAD model of bridge"
-  - url: /assets/photos/bridge_assembled
-    image_path: /assets/photos/bridge_assembled
+  - url: /assets/photos/bridge_assembled.png
+    image_path: /assets/photos/bridge_assembled.png
     alt: "3D Printed bridge, fully put together"
     title: "Final prototype of bridge, fully assembled"
-  - url: /assets/photos/bridge_collapsed
-    image_path: /assets/photos/bridge_collapsed
+  - url: /assets/photos/bridge_collapsed.png
+    image_path: /assets/photos/bridge_collapsed.png
     alt: "3D printed bridge in most compact form"
     title: "3D printed bridge collapsed"
-  - url: /assets/photos/bridge_fea_sim
-    image_path: /assets/photos/bridge_fea_sim
+  - url: /assets/photos/bridge_fea_sim.png
+    image_path: /assets/photos/bridge_fea_sim.png
     alt: "FEA test on bridge in Onshape"
     title: "FEA test on bridge in Onshape with point central load"
 ---
