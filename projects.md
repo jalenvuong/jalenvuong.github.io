@@ -73,6 +73,8 @@ Tools: Python
 
 Tools: Onshape, FEA, 3D Printing
 
+{% include gallery id="bridge" %}
+
 ---
 
 **Machinist Hammer:**
