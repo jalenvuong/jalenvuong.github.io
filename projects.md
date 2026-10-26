@@ -3,7 +3,34 @@ layout: single
 title: "Projects"
 permalink: /projects/
 author_profile: true
+changing_table:
+  - url: /assets/photos/table_cad
+    image_path: /assets/photos/table_cad
+    alt: "CAD mockup of prototype"
+    title: "CAD of portable foldable changing table"
+  - url: /assets/photos/table_prototype
+    image_path: /assets/photos/table_prototype
+    alt: "Final prototype of changing table"
+    title: "Final prototype presented to panel"
+bridge:
+  - url: /assets/photos/bridge_CAD
+    image_path: /assets/photos/bridge_CAD
+    alt: "CAD model of bridge"
+    title: "CAD model of bridge"
+  - url: /assets/photos/bridge_assembled
+    image_path: /assets/photos/bridge_assembled
+    alt: "3D Printed bridge, fully put together"
+    title: "Final prototype of bridge, fully assembled"
+  - url: /assets/photos/bridge_collapsed
+    image_path: /assets/photos/bridge_collapsed
+    alt: "3D printed bridge in most compact form"
+    title: "3D printed bridge collapsed"
+  - url: /assets/photos/bridge_fea_sim
+    image_path: /assets/photos/bridge_fea_sim
+    alt: "FEA test on bridge in Onshape"
+    title: "FEA test on bridge in Onshape with point central load"
 ---
+
 **Simple PID Control for RC Car:**
 
 - Used PID controls to keep the RC car moving in a straight line and counteract drift
@@ -22,6 +49,8 @@ Tools: Arduino, Python, IMUs
 - Presented final prototype to panel of our client and the course professors (EDES 220)
 
 Tools: 3D Printing, Woodwork, CAD, Prototyping
+
+{% include gallery id="changing_table" %}
 
 ---
 
