@@ -39,6 +39,8 @@ bridge:
 
 Tools: Arduino, Python, IMUs
 
+{% include video id="5nadyTWDfc8" provider="youtube" caption="Demo of PID controller on RC car" %}
+
 ---
 
 **Portable Foldable Changing Table:**
