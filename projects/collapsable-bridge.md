@@ -34,8 +34,17 @@ Final project for CAD course MECH 203.
 - Ran FEA in Onshape to predict behavior under a center load
 - Optimized the design to maximize strength-to-weight ratio
 
+## Constraints
+- Bridge must traverse 30 cm
+- When collapsed, must fit within 20 cm x 10 cm x 8 cm
+- Must weigh less than 200 g
+- Must have at least 3 interlocking parts
+- Must be PLA
+- Ranked by strength to weight ratio
+
 ## Process
+I started by researching various bridge forms, testing various types of trusses such as a K-truss and Pratt bridge. I made each shape in Onshape and used the simulation tool to test their behavior under a central point load if the bridge was rigidly supported at each end. After all these tests, I figured the best design for this scaled down bridge was a hybrid K-truss and Pratt bridge, as the combination offset each type's individual weakness and performed the best out of every bridge type I tried. Next, I moved to the interlocking constraint. At first, I tried a puzzle piece type of interlocking connection, but making the connecting tight was difficult and the joints were prone to failure during testing. I then pivoted to a rotating joint (see images below) that allowed the two load-bearing sides of the bridge to fold into the envelope and two non-load-bearing connecting pieces to hold the sides upright. This performed significantly better, as the rotating joints were perpendicular to the point load and weren't as prone to failure as the previous prototype, and the connectors allowed me to focus material in the load bearing parts and improve the strength to weight ratio of my bridge. Finally, when printing, I made sure to print the parts flat so that the layer lines would not be subject to shear, which would caule the bridge to fail earlier.
 {% include gallery id="bridge" %}
 
 ## Outcome
-Placed in the top 5 of the entire class.
+Placed in the top 5 of the entire class with a strength to weight ratio of 120.8.
