@@ -21,7 +21,7 @@ changing_table:
 ## Context
 Course project for EDES 220. Our client was Dr. Kala, who requested this project because of her own experience trying to change her son who outgrew standard changing tables.
 
-## Project and Constraints
+## Project
 - Designed a portable changing table for adolescents with mobility-inhibiting conditions
 - Followed the engineering design process from brainstorming through prototyping
 - Kept our work well documented to make collaboration easier
