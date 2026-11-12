@@ -27,9 +27,9 @@ bridge:
 **Tools:** Onshape, FEA, 3D Printing
 
 ## Context
-Final project for CAD course.
+Final project for CAD course MECH 203. 
 
-## Projects and Constraints
+## Project
 - Designed a foldable bridge following the project's design criteria
 - Ran FEA in Onshape to predict behavior under a center load
 - Optimized the design to maximize strength-to-weight ratio
