@@ -16,7 +16,7 @@ pendulum_plots:
 
 [← Back to all projects](/projects/)
 
-**Tools:** Python
+**Tools:** Python, PID controls, Mathematical Modeling
 
 ## Context
 Personal project to practice mathematically modeling systems and to get further practice with control systems.
