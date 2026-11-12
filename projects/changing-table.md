@@ -28,6 +28,7 @@ Course project for EDES 220. Our client was Dr. Kala, who requested this project
 - Repeated prototype testing loop to improve iterations
 
 ## Process
+Following the class structure, we designed the changing table from scratch. We started with a formal brainstorming process, where we documented and weighed each item by defining criteria and comparing how well each one met them. After reaching our final rough sketch, we made multiple prototypes of our design with more and more detail until we had our high fidelity prototype that we presented. Throughout the class, we practiced documenting each step of the process and learned effective teamwork and communication techniques.
 {% include gallery id="changing_table" %}
 
 ## Outcome
