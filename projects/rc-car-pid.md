@@ -10,19 +10,15 @@ author_profile: true
 **Tools:** Arduino, Python, IMUs
 
 ## Context
-[Was this a class project or a personal project? What were the goals or constraints?]
+Personal project to get an introduction to control systems.
 
-## My Role
-[What you did personally, and what teammates did if it was a group project.]
-
-## What, How, and Why
+## Project and Constraints
 - Used PID control to keep the RC car moving in a straight line and counteract drift
 - Set a goal of driving 4 meters in a straight line to collide with a target directly ahead
 - Tuned the gain coefficients to get the behavior I wanted
-- [Why PID? Why those sensors? What tradeoffs did you make?]
 
 ## Process
 {% include video id="5nadyTWDfc8" provider="youtube" caption="Demo of PID controller on RC car" %}
 
 ## Outcome
-[How close did it get to the target? What worked, and what would you improve?]
+The car was able to self correct and go in a straight line for at least 4 meters.
