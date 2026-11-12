@@ -12,7 +12,7 @@ author_profile: true
 ## Context
 Personal project over the summer.
 
-## What, How, and Why
+## Project and Constraints
 - Modeled an inverted pendulum balanced by a cart using PID control
 - Derived the equations of motion using the Lagrangian
 - Plotted the behavior in Python and tested it with a range of different masses
