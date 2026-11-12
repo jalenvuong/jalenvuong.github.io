@@ -12,7 +12,7 @@ author_profile: true
 ## Context
 Industrial Process Lab Project
 
-## Project and Constraints
+## Project
 - Made a machinist hammer using a lathe and various attachments
 - Read engineering drawings and learned how to apply tolerances
 
