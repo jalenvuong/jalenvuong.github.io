@@ -19,19 +19,16 @@ changing_table:
 **Tools:** 3D Printing, Woodwork, CAD, Prototyping
 
 ## Context
-Course project for EDES 220. [Who was the client and what were the requirements?]
+Course project for EDES 220. Our client was Dr. Kala, who requested this project because of her own experience trying to change her son who outgrew standard changing tables.
 
-## My Role
-[Your specific contributions.]
-
-## What, How, and Why
+## Project and Constraints
 - Designed a portable changing table for adolescents with mobility-inhibiting conditions
 - Followed the engineering design process from brainstorming through prototyping
 - Kept our work well documented to make collaboration easier
-- [Key design decisions and why you made them.]
+- Repeated prototype testing loop to improve iterations
 
 ## Process
 {% include gallery id="changing_table" %}
 
 ## Outcome
-Presented the final prototype to a panel of our client and the course professors. [Feedback received, what you'd change.]
+Presented the final prototype to a panel of our client and the course professors.
