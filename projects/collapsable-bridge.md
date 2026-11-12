@@ -27,16 +27,15 @@ bridge:
 **Tools:** Onshape, FEA, 3D Printing
 
 ## Context
-Final project for [course name]. [Design criteria and constraints.]
+Final project for CAD course.
 
-## What, How, and Why
+## Projects and Constraints
 - Designed a foldable bridge following the project's design criteria
 - Ran FEA in Onshape to predict behavior under a center load
 - Optimized the design to maximize strength-to-weight ratio
-- [Key design decisions and why you made them.]
 
 ## Process
 {% include gallery id="bridge" %}
 
 ## Outcome
-Placed in the top 5 of the entire class. [Load held, weight, how the FEA prediction compared to the real test.]
+Placed in the top 5 of the entire class.
