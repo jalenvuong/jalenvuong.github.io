@@ -7,10 +7,10 @@ author_profile: true
 
 [← Back to all projects](/projects/)
 
-**Tools:** Arduino, Python, IMUs
+**Tools:** Arduino, Python, IMUs, Control Systems (PID)
 
 ## Context
-Personal project to get an introduction to control systems.
+Personal project to get an introduction to control systems and using electronics to prototype.
 
 ## Project and Constraints
 - Used PID control to keep the RC car moving in a straight line and counteract drift
