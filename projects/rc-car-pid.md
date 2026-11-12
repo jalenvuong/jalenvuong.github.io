@@ -12,7 +12,7 @@ author_profile: true
 ## Context
 Personal project to get an introduction to control systems and using electronics to prototype.
 
-## Project and Constraints
+## Project
 - Used PID control to keep the RC car moving in a straight line and counteract drift
 - Set a goal of driving 4 meters in a straight line to collide with a target directly ahead
 - Tuned the gain coefficients to get the behavior I wanted
