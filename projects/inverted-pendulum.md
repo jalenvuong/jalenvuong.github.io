@@ -10,16 +10,15 @@ author_profile: true
 **Tools:** Python
 
 ## Context
-[Class or personal project? What prompted it?]
+Personal project over the summer.
 
 ## What, How, and Why
 - Modeled an inverted pendulum balanced by a cart using PID control
 - Derived the equations of motion using the Lagrangian
 - Plotted the behavior in Python and tested it with a range of different masses
-- [Why this system? What made it hard to control?]
 
 ## Process
-[Add a plot or animation of the simulation, and optionally a link to the code repo.]
+- Coming soon
 
 ## Outcome
-[What did you learn from varying the masses? Did the controller stay stable?]
+- Coming soon
